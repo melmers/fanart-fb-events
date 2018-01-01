@@ -174,7 +174,7 @@ document.getElementById("demo").innerHTML = txt;
 
             echo '</li>';
         }
-        echo "/ul>";
+        // echo "/ul>";
 ?>
 
 </div>
